@@ -1,2 +1,2 @@
-# collisionDetect
-Created Using vs Code
+# collisionAlgorithm
+Algorithm to detect collision between two objects
